@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://videopoker-frontend.onrender.com")
 @RestController
 @RequestMapping("/poker")
 public class PokerController {
